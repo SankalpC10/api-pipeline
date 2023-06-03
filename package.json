@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/SankalpC10/api-pipeline/issues"
   },
-  "homepage": "https://github.com/SankalpC10/api-pipeline#readme"
+  "homepage": "https://github.com/SankalpC10/api-pipeline#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
