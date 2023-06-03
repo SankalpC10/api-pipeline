@@ -1,0 +1,23 @@
+{
+  "name": "mynodeapi",
+  "version": "1.0.0",
+  "description": "rest api test",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SankalpC10/api-pipeline.git"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Sankalp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SankalpC10/api-pipeline/issues"
+  },
+  "homepage": "https://github.com/SankalpC10/api-pipeline#readme"
+}
